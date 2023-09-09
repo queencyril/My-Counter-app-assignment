@@ -10,11 +10,12 @@
 } 
 
 body {
-  background-color: #d9a5e79c;
+  background-color: #e2c8e99c;
   min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
+
 }
 
 h1 {
@@ -31,6 +32,7 @@ p {
   text-align: center;
   border-radius: 8px;
   padding: 20px;
+  margin: 0 60px;
   box-shadow: 0 20px 40px 5px rgba(86, 4, 97, 0.733);
 }
 
